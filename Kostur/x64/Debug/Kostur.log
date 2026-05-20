@@ -1,0 +1,10 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(513,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+  Main.cpp
+E:\Kostur\packages\glew-2.2.0.2.2.0.1\build\native\include\GL\glew.h(1219,14): error C1083: Cannot open include file: 'GL/glu.h': No such file or directory
+  (compiling source file 'Source/Main.cpp')
+  
+  Util.cpp
+E:\Kostur\packages\glew-2.2.0.2.2.0.1\build\native\include\GL\glew.h(1219,14): error C1083: Cannot open include file: 'GL/glu.h': No such file or directory
+  (compiling source file 'Source/Util.cpp')
+  
+  Generating Code...
